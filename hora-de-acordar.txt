@@ -1,0 +1,12 @@
+ -- PROGRAMA INICIADO --
+1 - Abrir os olhos
+2 - Se (AlarmeTocando)
+ 2.1 - Desligar o Alarme
+Senão
+ 2.2 - Desativar o alarme que ainda vai tocar.
+3 - Levantar-se da cama
+4 - Arrumar a cama
+5 - ir até o banheiro
+6 - lavar o rosto e escovar os dentes
+7 - tomar um banho
+ -- PROGRAMA FINALIZADO -- 
